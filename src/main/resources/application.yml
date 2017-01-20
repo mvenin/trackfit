@@ -1,0 +1,18 @@
+facebook:
+    client:
+      clientId: 22862G
+      clientSecret: e64d6d6dd2d138e88c81d41b45bb7314
+      accessTokenUri: https://api.fitbit.com/oauth2/token
+      userAuthorizationUri: https://www.fitbit.com/oauth2/authorize
+      tokenName: oauth_token
+      authenticationScheme: query
+      response_type: token
+      scope: activity
+      redirect_uri: http://trackfit-veninsoft.rhcloud.com/fitbitcallback
+    resource:
+      userInfoUri: https://api.fitbit.com/1/user/2YP77C/profile.json
+
+
+logging:
+  level:
+    org.springframework.security: DEBUG
