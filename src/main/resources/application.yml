@@ -1,7 +1,7 @@
 facebook:
     client:
-      clientId: 22862G
-      clientSecret: e64d6d6dd2d138e88c81d41b45bb7314
+      clientId: 2283N8
+      clientSecret: 8f85d6c937a316cf73db546589c44c25
       accessTokenUri: https://api.fitbit.com/oauth2/token
       userAuthorizationUri: https://www.fitbit.com/oauth2/authorize
       tokenName: oauth_token
